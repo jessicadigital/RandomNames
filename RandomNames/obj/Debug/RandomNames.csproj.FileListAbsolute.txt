@@ -1,0 +1,7 @@
+C:\Users\admin2\Documents\GitHub\RandomNames\RandomNames\obj\Debug\RandomNames.csprojAssemblyReference.cache
+C:\Users\admin2\Documents\GitHub\RandomNames\RandomNames\obj\Debug\RandomNames.csproj.CoreCompileInputs.cache
+C:\Users\admin2\Documents\GitHub\RandomNames\RandomNames\bin\Debug\RandomNames.exe.config
+C:\Users\admin2\Documents\GitHub\RandomNames\RandomNames\bin\Debug\RandomNames.exe
+C:\Users\admin2\Documents\GitHub\RandomNames\RandomNames\bin\Debug\RandomNames.pdb
+C:\Users\admin2\Documents\GitHub\RandomNames\RandomNames\obj\Debug\RandomNames.exe
+C:\Users\admin2\Documents\GitHub\RandomNames\RandomNames\obj\Debug\RandomNames.pdb
